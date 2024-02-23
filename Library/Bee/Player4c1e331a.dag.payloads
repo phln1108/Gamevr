@@ -1,0 +1,1429 @@
+Payload for "WriteText Library/Bee/artifacts/csharpactions/boot.config_x4e9.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.PlayerBuildProgramBase","methodName":"WriteBootConfigAction","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/boot.config"],"inputs":["Library/PlayerDataCache/Android/Data/boot.config","Library/PlayerDataCache/Android/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/Android/Data/ScriptingAssemblies.json","Library/PlayerDataCache/Android/Data/boot.config","Library/PlayerDataCache/Android/Data/data.unity3d","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.AIModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.ARModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.AccessibilityModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.AndroidJNIModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.AnimationModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.AssetBundleModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.AudioModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.ClothModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.ContentLoadModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.CoreModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.CrashReportingModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.DSPGraphModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.DirectorModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.GIModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.GameCenterModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.GridModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.HotReloadModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.IMGUIModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.ImageConversionModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.InputLegacyModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.InputModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.JSONSerializeModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.LocalizationModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.ParticleSystemModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.PerformanceReportingModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.Physics2DModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.PhysicsModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.ProfilerModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.PropertiesModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.ScreenCaptureModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.SharedInternalsModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.SpriteMaskModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.SpriteShapeModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.StreamingModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.SubstanceModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.SubsystemsModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.TLSModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.TerrainModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.TerrainPhysicsModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.TextCoreFontEngineModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.TextCoreTextEngineModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.TextRenderingModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.TilemapModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UIElementsModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UIModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UmbraModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityAnalyticsCommonModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityAnalyticsModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityConnectModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityCurlModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityTestProtocolModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestAudioModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestTextureModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestWWWModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.VFXModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.VRModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.VehiclesModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.VideoModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.WindModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.XRModule.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Unity.XR.Management.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/UnityEngine.SpatialTracking.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Google.XR.Cardboard.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll","/home/ph/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll","/home/ph/My project/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Accessibility.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.AccessControl.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.AppContext.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Buffers.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Concurrent.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.NonGeneric.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Specialized.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Annotations.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.EventBasedAsync.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.TypeConverter.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Console.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.Common.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.SqlClient.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Contracts.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Debug.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.FileVersionInfo.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Process.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.StackTrace.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TextWriterTraceListener.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tools.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceEvent.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceSource.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tracing.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Drawing.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Dynamic.Runtime.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Calendars.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Extensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Compression.ZipFile.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.AccessControl.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.DriveInfo.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Watcher.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.IsolatedStorage.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.MemoryMappedFiles.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Pipes.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.UnmanagedMemoryStream.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Expressions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Parallel.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Queryable.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Memory.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.AuthenticationManager.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Cache.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.HttpListener.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Mail.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NameResolution.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NetworkInformation.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Ping.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Requests.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Security.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.ServicePoint.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Sockets.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Utilities.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebHeaderCollection.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.Client.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ObjectModel.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.DispatchProxy.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.ILGeneration.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.Lightweight.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Extensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.TypeExtensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Reader.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ReaderWriter.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ResourceManager.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Writer.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.CompilerServices.VisualC.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Extensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Handles.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.RuntimeInformation.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.WindowsRuntime.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Loader.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Numerics.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Formatters.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Json.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Xml.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.AccessControl.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Claims.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Algorithms.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Cng.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Csp.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.DeriveBytes.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encoding.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.Aes.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDiffieHellman.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDsa.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.Algorithms.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.OpenSsl.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Pkcs.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.ProtectedData.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RSA.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RandomNumberGenerator.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.X509Certificates.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.Windows.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.SecureString.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Duplex.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Http.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.NetTcp.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Security.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceProcess.ServiceController.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.CodePages.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.Extensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.RegularExpressions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.AccessControl.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Overlapped.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Extensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Parallel.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Thread.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.ThreadPool.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Timer.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ValueTuple.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.ReaderWriter.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XDocument.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XDocument.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XmlDocument.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlDocument.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlSerializer.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.Xsl.Primitives.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/netstandard.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Microsoft.CSharp.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Sqlite.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Tds.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Security.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.Composition.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.DataAnnotations.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.Install.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Core.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.DataSetExtensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Entity.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Linq.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.OracleClient.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.Client.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Design.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.Protocols.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.Design.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.EnterpriseServices.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.FileSystem.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.Selectors.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Json.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Management.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Messaging.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.WebRequest.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.Vectors.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Reflection.Context.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Caching.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.DurableInstancing.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Remoting.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.Formatters.Soap.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Security.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Activation.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Discovery.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Internals.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Routing.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Web.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceProcess.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Transactions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.ApplicationServices.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.DynamicData.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.Design.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.RegularExpressions.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Services.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.DataVisualization.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xaml.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Linq.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Serialization.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.dll","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/mscorlib.dll","Library/Bee/Player4c1e331a-inputdata.json"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/Assembly-CSharp-FeaturesChecked.txt_ki5r.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/Assembly-CSharp.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/Google.XR.Cardboard-FeaturesChecked.txt_lgvn.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/Google.XR.Cardboard-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/Google.XR.Cardboard.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/Mono.Security-FeaturesChecked.txt_pcel.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/Mono.Security.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/System.Configuration-FeaturesChecked.txt_vfp9.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/System.Configuration.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/System.Core-FeaturesChecked.txt_k2yd.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/System.Core.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/System.Xml-FeaturesChecked.txt_wnnz.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/System.Xml.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/System-FeaturesChecked.txt_v90b.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/System.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/Unity.XR.Management-FeaturesChecked.txt_cge0.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/Unity.XR.Management-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/Unity.XR.Management.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AndroidJNIModule-FeaturesChecked.txt_x3ln.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.AndroidJNIModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AudioModule-FeaturesChecked.txt_tbfa.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.AudioModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.CoreModule-FeaturesChecked.txt_uimb.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.CoreModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputLegacyModule-FeaturesChecked.txt_y5my.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.InputLegacyModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputModule-FeaturesChecked.txt_xblj.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.InputModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PhysicsModule-FeaturesChecked.txt_2l1t.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.PhysicsModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PropertiesModule-FeaturesChecked.txt_m9z5.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.PropertiesModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.PropertiesModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SharedInternalsModule-FeaturesChecked.txt_sm9d.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.SharedInternalsModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SpatialTracking-FeaturesChecked.txt_m7xj.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.SpatialTracking-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.SpatialTracking.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SubsystemsModule-FeaturesChecked.txt_vzqa.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.SubsystemsModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TextRenderingModule-FeaturesChecked.txt_ighi.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.TextRenderingModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.TextRenderingModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.XRModule-FeaturesChecked.txt_xks3.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.XRModule.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityEngine-FeaturesChecked.txt_x1ug.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/mscorlib-FeaturesChecked.txt_pwj8.info"
+
+{"PlayerBuildProgramLibrary.FeatureExtractor+Data":{"ignoreSystemDlls":true,"featuresToCheck":[{"referenceName":"UnityEngine.Networking.NetworkDiscovery"},{"referenceName":"UnityEngine.WebCamTexture"},{"referenceName":"UnityEngine.Microphone"},{"referenceName":"UnityEngine.Networking"},{"referenceName":"System.Net.Sockets"},{"referenceName":"UnityEngine.Network"},{"referenceName":"UnityEngine.RPC"},{"referenceName":"UnityEngine.WWW"},{"referenceName":"UnityEngine.Ping"},{"referenceName":"UnityEngine.Networking.UnityWebRequest"},{"referenceName":"UnityEngine.Input::set_multiTouchEnabled"},{"referenceName":"UnityEngine.Handheld::Vibrate"},{"referenceName":"UnityEngine.Application::get_internetReachability"},{"referenceName":"UnityEngine.Input::get_location"},{"referenceName":"UnityEngine.Input::get_acceleration"},{"referenceName":"UnityEngine.Input::GetAccelerationEvent"},{"referenceName":"UnityEngine.Input::get_accelerationEvents"},{"referenceName":"UnityEngine.Input::get_accelerationEventCount"},{"referenceName":"UnityEngine.Input::get_touches"},{"referenceName":"UnityEngine.Input::GetTouch"},{"referenceName":"UnityEngine.Input::get_touchCount"},{"referenceName":"UnityEngine.Input::get_multiTouchEnabled"},{"referenceName":"UnityEngine.Networking.NetworkTransport::SetMulticastLock"},{"referenceName":"UnityEngine.Android.DiagnosticsReporting::CallReportFullyDrawn"}]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.FeatureExtractor","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/mscorlib.dll"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/Android/ihupg/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/Android/4qqi9/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/i1egq17lwpmh0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/UnityAdsStubs.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/char-conversions.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-api.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-benchmark-support.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-mono-api.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-runtime-stats.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/ent5z6cptb610.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-common.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-il2cpp.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-tiny.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/11qztj72qn4o0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/jxq6qfokiyo60.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/DefaultTraceListener.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/FileVersionInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Stopwatch.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/szgu0uesh4sj0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/iyfwulbfiqzl0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/Socket.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/SocketException.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/vihguysocpxq0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/Runtime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeClassHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeMarshal.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/SafeStringMarshal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/ljgekulc9p2r0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/Debugger.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackFrame.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/y11gslxukg2q0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CalendarData.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CompareInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureData.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/RegionInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/1ksd2s58rvgp0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/BrokeredFileSystem.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/DriveInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/MonoIO.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/yqwljm5h99fr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Assembly.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/CustomAttributeData.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/EventInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/ParameterInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeMethodInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/yqwljm5h99fr1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/AssemblyName.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/FieldInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Module.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethodInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeAssembly.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeEventInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeModule.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeParameterInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/yqwljm5h99fr2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MethodBase.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethod.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeConstructorInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeFieldInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimePropertyInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/29lwn95geko00.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/Marshal.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/RuntimeInformation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/6pq5p8rkcj8h0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/z77xknhmn33i0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsIdentity.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/0ykfrs5b2itk0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/EncodingHelper.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/Normalization.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/p9hukq8w72g70.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/InternalThread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Monitor.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Mutex.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/NativeEventCalls.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/OSSpecificSynchronizationContext.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Timer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/WaitHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/bm4xn0sfpowp0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ArgIterator.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeFieldHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/bm4xn0sfpowp1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/AppDomain.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Array.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CurrentSystemTimeZone.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/DateTime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/NumberFormatter.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Object.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeMethodHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/bm4xn0sfpowp2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Buffer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/GC.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/MonoCustomAttrs.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeType.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeTypeHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/bm4xn0sfpowp3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CLRConfig.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ConsoleDriver.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Delegate.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Enum.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Exception.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Number.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/String.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/TypedReference.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ValueType.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/wrmu4lz6hqb60.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeCreator.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeDataReader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/FieldLayout.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMetadata.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericSharing.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppSignature.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/wrmu4lz6hqb61.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/ArrayMetadata.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMethod.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeCompare.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/wrmu4lz6hqb62.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeHash.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/pgusgtdx0bgj0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/lrono2suke9i0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/ConsoleExtension.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/awfwxwcr07oz0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_errno.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_io.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_networking.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_random.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_sizecheck.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_time.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_uid.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_unused.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/hgjzo97f9plj0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Error.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Event.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/FastReaderReaderWriterLock.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Messages.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Semaphore.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/hgjzo97f9plj1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ConditionVariable.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Mutex.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ReaderWriterLock.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Socket.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/huit5cpd2bja0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/BrokeredFileSystem.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WaitObject.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/huit5cpd2bja1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Assert.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CpuInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Debug.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Handle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MemoryMappedFile.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SystemCertificates.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/huit5cpd2bja2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/COM.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MarshalStringAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketBridge.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/6vmrgq645fjv0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/SystemCertificates.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/tywy1inh5zbh0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Error.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/PosixHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ThreadImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/tywy1inh5zbh1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Directory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Encoding.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/FileSystemWatcher.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SocketImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SystemCertificates.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/tywy1inh5zbh2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CpuInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Cryptography.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LastError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MemoryMappedFile.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/tywy1inh5zbh3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ConditionVariableImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Console.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Memory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/NativeMethods.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/StackTrace.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Time.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/512dm8fjl51m0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Assert.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalStringAlloc.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/512dm8fjl51m1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Console.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Encoding.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/512dm8fjl51m2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/COM.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Cryptography.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Debug.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Directory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/DllMain.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/FileSystemWatcher.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MemoryMappedFile.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/NativeMethods.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SystemCertificates.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsHelpers.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/512dm8fjl51m3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Memory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SocketImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/StackTrace.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ThreadImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/512dm8fjl51m4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ConditionVariableImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CpuInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LastError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SynchronizationContext.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Time.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/4uh2o0lcfzxf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Cryptography.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiSharedEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/4uh2o0lcfzxf1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/BrokeredFileSystem.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiWinRTEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/am0j2jd3ifml0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/CultureInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Error.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/am0j2jd3ifml1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Allocator.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Console.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Directory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Socket.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Time.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/sz1ar48acqbk0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Output.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Runtime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/mono-structs.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/sha1.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/sz1ar48acqbk1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Exception.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Il2CppError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Logging.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Memory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryMappedFile.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPool.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryRead.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/sz1ar48acqbk2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/DirectoryUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MarshalingUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPoolAddressSanitizer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/PathUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/StringUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/gyuzx8sixpej0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/DebugSymbolReader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Finally.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmThreadUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/lf0l67oh71pl0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/Math.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/MathF.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/caftlsb815bg0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ClassInlines.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ComObjectBase.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Module.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/String.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/VisualizerHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/caftlsb815bg1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Array.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Assembly.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Object.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/PlatformInvoke.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Reflection.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/WaitHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/WeakReference.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/caftlsb815bg2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/COM.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/COMEntryPoints.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Enum.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Exception.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/InternalCalls.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Liveness.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Profiler.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/RCW.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/caftlsb815bg3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/AndroidRuntime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/CCW.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ClassLibraryPAL.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Domain.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/GlobalMetadata.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/LastError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MemoryInformation.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Method.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Monitor.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Random.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ScopedThreadAttacher.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/caftlsb815bg4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/AssemblyName.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/CCWBase.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/GenericClass.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/GenericContainer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Parameter.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Property.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/caftlsb815bg5.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Field.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Il2CppHStringReference.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Runtime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/StackTrace.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ThreadPoolMs.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/x6ly2/caftlsb815bg6.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Class.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Event.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataCache.cpp"
+    
+
+Payload for "WriteText Library/Bee/artifacts/Android/x6ly2/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/Android/iz17e/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/Android/dqdht/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/Android/zz99l/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/i1egq17lwpmh0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/UnityAdsStubs.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/char-conversions.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-api.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-benchmark-support.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-mono-api.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/il2cpp-runtime-stats.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/ent5z6cptb610.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-common.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-il2cpp.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-tiny.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/11qztj72qn4o0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/jxq6qfokiyo60.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/DefaultTraceListener.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/FileVersionInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Stopwatch.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/szgu0uesh4sj0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/iyfwulbfiqzl0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/Socket.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/SocketException.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/vihguysocpxq0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/Runtime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeClassHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeMarshal.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/SafeStringMarshal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/ljgekulc9p2r0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/Debugger.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackFrame.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/y11gslxukg2q0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CalendarData.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CompareInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureData.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/RegionInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/1ksd2s58rvgp0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/BrokeredFileSystem.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/DriveInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/MonoIO.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/yqwljm5h99fr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Assembly.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/CustomAttributeData.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/EventInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/ParameterInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeMethodInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/yqwljm5h99fr1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/AssemblyName.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/FieldInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Module.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethodInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeAssembly.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeEventInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeModule.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeParameterInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/yqwljm5h99fr2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MethodBase.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethod.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeConstructorInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeFieldInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimePropertyInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/29lwn95geko00.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/Marshal.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/RuntimeInformation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/6pq5p8rkcj8h0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/z77xknhmn33i0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsIdentity.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/0ykfrs5b2itk0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/EncodingHelper.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/Normalization.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/p9hukq8w72g70.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/InternalThread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Monitor.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Mutex.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/NativeEventCalls.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/OSSpecificSynchronizationContext.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Timer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/WaitHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/bm4xn0sfpowp0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ArgIterator.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeFieldHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/bm4xn0sfpowp1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/AppDomain.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Array.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CurrentSystemTimeZone.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/DateTime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/NumberFormatter.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Object.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeMethodHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/bm4xn0sfpowp2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Buffer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/GC.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/MonoCustomAttrs.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeType.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeTypeHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/bm4xn0sfpowp3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CLRConfig.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ConsoleDriver.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Delegate.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Enum.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Exception.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Number.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/String.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/TypedReference.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ValueType.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/wrmu4lz6hqb60.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeCreator.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeDataReader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/FieldLayout.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMetadata.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericSharing.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppSignature.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/wrmu4lz6hqb61.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/ArrayMetadata.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMethod.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeCompare.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/wrmu4lz6hqb62.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstCompare.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstHash.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeHash.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/pgusgtdx0bgj0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/lrono2suke9i0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/ConsoleExtension.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Android/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/awfwxwcr07oz0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_errno.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_io.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_networking.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_random.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_sizecheck.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_time.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_uid.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_unused.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/hgjzo97f9plj0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Error.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Event.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/FastReaderReaderWriterLock.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Messages.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Semaphore.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/hgjzo97f9plj1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ConditionVariable.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Mutex.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/ReaderWriterLock.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Socket.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/huit5cpd2bja0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/BrokeredFileSystem.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WaitObject.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/huit5cpd2bja1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Assert.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CpuInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Debug.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Handle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MemoryMappedFile.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SystemCertificates.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/huit5cpd2bja2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/COM.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MarshalStringAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketBridge.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/6vmrgq645fjv0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/SystemCertificates.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/tywy1inh5zbh0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Error.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/PosixHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ThreadImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/tywy1inh5zbh1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Directory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Encoding.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/FileSystemWatcher.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SocketImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SystemCertificates.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/tywy1inh5zbh2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CpuInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Cryptography.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LastError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MemoryMappedFile.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/tywy1inh5zbh3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ConditionVariableImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Console.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Memory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/NativeMethods.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/StackTrace.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Time.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Posix/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/512dm8fjl51m0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Assert.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CrashHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LibraryLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalStringAlloc.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/512dm8fjl51m1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Console.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Encoding.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/512dm8fjl51m2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/COM.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Cryptography.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Debug.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Directory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/DllMain.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/FileSystemWatcher.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MemoryMappedFile.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/NativeMethods.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SystemCertificates.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Thread.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsHelpers.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/512dm8fjl51m3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Memory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SocketImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/StackTrace.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ThreadImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/512dm8fjl51m4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ConditionVariableImpl.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CpuInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LastError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SynchronizationContext.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Time.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/Win32/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/4uh2o0lcfzxf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Cryptography.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Initialize.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiSharedEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/4uh2o0lcfzxf1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/BrokeredFileSystem.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Process.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiWinRTEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/am0j2jd3ifml0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/CultureInfo.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Error.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/File.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Locale.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/am0j2jd3ifml1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Allocator.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Console.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Directory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Socket.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Time.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/sz1ar48acqbk0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Output.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Runtime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/mono-structs.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/sha1.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/sz1ar48acqbk1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Exception.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Il2CppError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Logging.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Memory.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryMappedFile.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPool.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryRead.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/sz1ar48acqbk2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/DirectoryUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/Environment.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MarshalingUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPoolAddressSanitizer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/PathUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/utils/StringUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/gyuzx8sixpej0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/DebugSymbolReader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Finally.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmThreadUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/lf0l67oh71pl0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/Math.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/MathF.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/caftlsb815bg0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ClassInlines.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ComObjectBase.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Module.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Path.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/String.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/VisualizerHelpers.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/caftlsb815bg1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Array.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Assembly.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MarshalAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Object.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/PlatformInvoke.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Reflection.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/WaitHandle.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/WeakReference.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/caftlsb815bg2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/COM.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/COMEntryPoints.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Enum.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Exception.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/InternalCalls.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Liveness.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataAlloc.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Profiler.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/RCW.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/caftlsb815bg3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/AndroidRuntime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/CCW.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ClassLibraryPAL.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Domain.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/GlobalMetadata.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/LastError.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MemoryInformation.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Method.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Monitor.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Random.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ScopedThreadAttacher.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/caftlsb815bg4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/AssemblyName.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/CCWBase.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/GenericClass.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/GenericContainer.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Image.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Parameter.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Property.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/caftlsb815bg5.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Field.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Il2CppHStringReference.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataLoader.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Runtime.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/StackTrace.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/ThreadPoolMs.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/Android/87lik/caftlsb815bg6.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Class.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/Event.cpp"
+#include "/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataCache.cpp"
+    
+
+Payload for "WriteText Library/Bee/artifacts/Android/87lik/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/Android/d8kzr/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/build.gradle_ul1c.info"
+
+{"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles+Arguments":{"ProjectPath":"/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle","Architectures":"ARMv7, ARM64","BuildSystem":"Gradle","GradleProjectCreateInfo":{"HostPlatform":"Linux","ApplicationType":"APK","BuildType":"Release","AndroidSDKPath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK","AndroidNDKPath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK","PreferredHeapSizeForJVM":4096,"GradleVersion":"7.2","UnityLibraryTemplatePath":"Assets/Plugins/Android/mainTemplate.gradle","UnityLibraryTemplatePathUsed":true,"LauncherTemplatePath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle","LauncherTemplatePathUsed":false,"BaseProjectTemplatePath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle","BaseProjectTemplatePathUsed":false,"GradlePropertiesTemplatePath":"Assets/Plugins/Android/gradleTemplate.properties","GradlePropertiesTemplatePathUsed":true,"GradleLibraryTemplatePath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle","GradleLibraryTemplatePathUsed":false,"UnityProguardTemplatePath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/UnityProGuardTemplate.txt","ProguardUserPath":"","SettingsTemplatePath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle","SettingsTemplatePathUsed":false,"BuildTools":"32.0.0","TargetSDKVersion":32,"MinSDKVersion":26,"PackageName":"com.testevr.testevr","Architectures":"ARMv7, ARM64","BuildApkPerCpuArchitecture":false,"VersionCode":1,"VersionName":"0.1","Minify":1,"NoCompressOptions":{"RelativeFilePaths":[],"FileExtensions":[]},"UseCustomKeystore":false,"KeystorePath":"","KeystoreName":"","KeystorePassword":"","KeystoreAliasName":"","KeystoreAliasPassword":"","ScriptingImplementation":"IL2CPP","AndroidLibraries":["Library/PackageCache/com.unity.xr.management@4.4.0/xrmanifest.androidlib"],"AARFiles":["Library/PackageCache/com.google.xr.cardboard@0d822d2031/Runtime/Android/GfxPluginCardboard.aar"],"BuiltinJavaSourcePaths":["com/unity3d/player/UnityPlayerActivity.java"],"JavaSourcePaths":[],"KotlinSourcePaths":[],"PlayerPackage":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer","PlayerPackageTools":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools","SymlinkSources":false,"InstallIntoBuildsFolder":false,"UnityPath":"","UnityProjectPath":"/home/ph/My project","Dependencies":[]}},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/AndroidPlayerBuildProgram.exe","targets":["/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build.gradle","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build.gradle","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/gradle.properties","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/local.properties","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/settings.gradle","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build.gradle","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/proguard-unity.txt","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/gradle/wrapper/gradle-wrapper.properties"],"inputs":["Assets/Plugins/Android/mainTemplate.gradle","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle","Assets/Plugins/Android/gradleTemplate.properties","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/UnityProGuardTemplate.txt"],"targetDirectories":[]}}    
+
+Payload for "WriteText /home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/colors.xml"
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="staticSplashScreenBackgroundColor">#231F20</color>
+</resources>    
+
+Payload for "WriteText /home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml"
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">testevr</string>
+  <string name="game_view_content_description">Game view</string>
+</resources>    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info"
+
+{"AndroidPlayerBuildProgram.Actions.GenerateManifests+Arguments":{"Configuration":{"PackageName":"com.testevr.testevr","TargetSDKVersion":32,"LauncherManifestTemplatePath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/LauncherManifest.xml","LauncherManifestTemplateUsed":false,"LibraryManifestTemplatePath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml","LibraryManifestCustomTemplateUsed":false,"LauncherManifestPath":"launcher/src/main/AndroidManifest.xml","LibraryManifestPath":"unityLibrary/src/main/AndroidManifest.xml","TVCompatibility":false,"BannerEnabled":true,"IsGame":true,"PreferredInstallLocation":"PreferExternal","TextureSupport":"Generic","GamepadSupportLevel":"SupportsDPad","TargetDevices":"AllDevices","SupportedAspectRatioMode":1,"MaxAspectRatio":2.1,"ForceInternetPermission":true,"UseLowAccuracyLocation":false,"ForceSDCardPermission":false,"PreserveFramebufferAlpha":false,"DefaultInterfaceOrientation":"LandscapeLeft","AllowedAutorotateToPortrait":true,"AllowedAutorotateToPortraitUpsideDown":true,"AllowedAutorotateToLandscapeLeft":true,"AllowedAutorotateToLandscapeRight":true,"ARCoreEnabled":false,"SplashScreenScale":"Center","VREnabled":false,"RenderOutsideSafeArea":true,"GraphicsDevices":["OpenGLES2"],"OpenGLRequireES31":false,"OpenGLRequireES31AEP":false,"OpenGLRequireES32":false,"StartInFullscreen":true,"ChromeOSInputEmulation":true,"DefaultWindowWidth":1920,"DefaultWindowHeight":1080,"MinimumWindowWidth":400,"MinimumWindowHeight":300,"ResizableWindow":false,"FullScreenMode":"FullScreenWindow","AutoRotationBehavior":"User"},"Services":{"EnableUnityConnect":false,"EnablePerformanceReporting":false,"EnableAnalytics":false,"EnableCrashReporting":false},"ProjectPath":"/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle","FeatureChecklist":["Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/Google.XR.Cardboard-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/Unity.XR.Management-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.PropertiesModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.SpatialTracking-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.TextRenderingModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt"],"Development":false,"UsingObb":false,"GradleResourcesInformation":{"TargetSDKVersion":32,"RoundIconsAvailable":false,"RoundIconsSupported":true,"AdaptiveIconsSupported":true,"AdaptiveIconsAvailable":false},"LauncherManifestDiagnosticsPath":"Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt","LibraryManifestDiagnosticsPath":"Library/Bee/artifacts/Android/Manifest/LibraryManifestDiag.txt"},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"AndroidPlayerBuildProgram.Actions.GenerateManifests","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/AndroidPlayerBuildProgram.exe","targets":["Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt","Library/Bee/artifacts/Android/Manifest/LibraryManifestDiag.txt","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml","/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml"],"inputs":["Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/Google.XR.Cardboard-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/Unity.XR.Management-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.PropertiesModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.SpatialTracking-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.TextRenderingModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt","Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/LauncherManifest.xml","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_64yr.info"
+
+{"PlayerBuildProgramLibrary.ClassRegistrationGenerator+Arguments":{"linkerOutput":"Library/Bee/artifacts/Android/ManagedStripped/UnityLinkerToEditorData.json","editorOutput":"/home/ph/My project/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","moduleAssetsPath":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/modules.asset","outputClassRegistration":"/home/ph/My project/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp","enableStripping":true},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.ClassRegistrationGenerator","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["/home/ph/My project/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp"],"inputs":["Library/Bee/artifacts/Android/ManagedStripped/UnityLinkerToEditorData.json","/home/ph/My project/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/modules.asset"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_7544.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"AndroidPlayerBuildProgram.Actions.GuidGenerator","methodName":"Run","assemblyLocation":"/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/AndroidPlayerBuildProgram.exe","targets":["/home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid"],"inputs":["Library/PlayerDataCache/Android/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/Android/Data/ScriptingAssemblies.json","Library/PlayerDataCache/Android/Data/data.unity3d","Library/Bee/artifacts/Android/boot.config","Temp/StagingArea/Data/UnitySubsystems/GfxPluginCardboard/UnitySubsystemsManifest.json","/home/ph/My project/Library/Bee/artifacts/Android/il2cppOutput/data/Metadata/global-metadata.dat","/home/ph/My project/Library/Bee/artifacts/Android/il2cppOutput/data/Resources/mscorlib.dll-resources.dat","/home/ph/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/Data/unity default resources"],"targetDirectories":[]}}    
+
+Payload for "WriteText /home/ph/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/resources/META-INF/com.android.games.engine.build_fingerprint"
+
+2022.3.20f1;IL2CPP;Release;StripEngineCode:1;OptimizedFramePacing:0;    
+
